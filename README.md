@@ -9,4 +9,5 @@ I was fed up constantly looking up words, juggling between sites and dictionarie
 - Python packages: bs4, requests, termcolor, urllib
 - To listen to audio you need MPV, and it should also be on your path
   
-  To run the app, simply run terminal.py
+  
+To run the app, simply run terminal.py
